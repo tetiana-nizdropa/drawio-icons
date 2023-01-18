@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 250">
+     <path fill="#f4f4f4" d="M499 11c0-5.519-4.481-10-10-10H11C5.481 1 1 5.481 1 11v228c0 5.519 4.481 10 10 10h478c5.519 0 10-4.481 10-10V11z" />
+     <path fill="#dcdcdc" fill-rule="nonzero" d="M10.96 1C5.444 1 1 5.424 1 10.92V65h498V10.92c0-5.496-4.443-9.92-9.96-9.92H10.96z" />
+     <path fill="#c8c8c8" fill-rule="nonzero" d="M10.96 0C4.91 0 0 4.885 0 10.92v228.16C0 245.115 4.909 250 10.96 250h478.08c6.051 0 10.96-4.885 10.96-10.92V10.92C500 4.885 495.091 0 489.04 0H10.96zm0 2h478.08c4.982 0 8.96 3.963 8.96 8.92v228.16c0 4.957-3.978 8.92-8.96 8.92H10.96C5.979 248 2 244.037 2 239.08V10.92C2 5.963 5.978 2 10.96 2z" /><text fill="#515151" font-family="SegoeUI,'Segoe UI',sans-serif" font-size="30" transform="translate(15 45)">Copy Data</text><text font-family="SegoeUI,'Segoe UI',sans-serif" font-size="36" transform="translate(130 165)">Copy Data</text>
+     <path fill="url(#_Linear1)" fill-rule="nonzero" d="M6.122 3.364c-2.374 0-4.3-.617-4.3-1.432V9.56c0 .784 1.891 1.42 4.238 1.432h.06c2.373 0 4.3-.617 4.3-1.432V1.932c0 .796-1.925 1.432-4.298 1.432z" transform="matrix(4.99998 0 0 4.99998 26.41 112.5)" />
+     <path fill="#e8e8e8" fill-rule="nonzero" d="M78.51 122.16c0 4-9.625 7.16-21.5 7.16s-21.5-3.084-21.5-7.16c0-4.075 9.64-7.16 21.51-7.16 11.87 0 21.5 3.086 21.5 7.16" />
+     <path fill="#50e6ff" fill-rule="nonzero" d="M73.514 121.575c0 2.53-7.409 4.566-16.5 4.566-9.088 0-16.5-2.035-16.5-4.566 0-2.53 7.421-4.54 16.506-4.54s16.5 2.04 16.5 4.54" />
+     <path fill="#198ab3" fill-rule="nonzero" d="M57.02 122.714a41.739 41.739 0 00-13.04 1.786 41.385 41.385 0 0013.04 1.665 40.288 40.288 0 0013.04-1.814 42.945 42.945 0 00-13.04-1.636z" />
+     <path fill="url(#_Linear2)" fill-rule="nonzero" d="M10.42 7.872c-2.374 0-4.3-.618-4.3-1.432v7.628c0 .784 1.891 1.42 4.237 1.432h.061c2.373 0 4.3-.617 4.3-1.432V6.44c0 .796-1.925 1.432-4.298 1.432z" transform="matrix(4.99998 0 0 4.99998 26.41 112.5)" />
+     <path fill="#e8e8e8" fill-rule="nonzero" d="M99.996 144.701c0 4-9.62 7.16-21.5 7.16s-21.5-3.09-21.5-7.16 9.62-7.16 21.5-7.16 21.5 3.084 21.5 7.16z" />
+     <path fill="#50e6ff" fill-rule="nonzero" d="M95 144.11c0 2.531-7.41 4.57-16.5 4.57-9.089 0-16.5-2.039-16.5-4.57 0-2.53 7.41-4.535 16.5-4.535S95 141.611 95 144.11z" />
+     <path fill="#198ab3" fill-rule="nonzero" d="M78.511 145.256A41.782 41.782 0 0065.466 147a41.567 41.567 0 0013.045 1.665c4.416.12 8.82-.486 13.04-1.79a42.778 42.778 0 00-13.04-1.62z" />
+     <defs id="defs70">
+          <linearGradient id="_Linear1" x1="0" x2="1" y1="0" y2="0" gradientTransform="translate(1.824 6.462) scale(8.596)" gradientUnits="userSpaceOnUse">
+               <stop id="stop40" offset="0" stop-color="#005ba1" stop-opacity="1" />
+               <stop id="stop42" offset=".07" stop-color="#0060a9" stop-opacity="1" />
+               <stop id="stop44" offset=".36" stop-color="#0071c8" stop-opacity="1" />
+               <stop id="stop46" offset=".52" stop-color="#0078d4" stop-opacity="1" />
+               <stop id="stop48" offset=".64" stop-color="#0074cd" stop-opacity="1" />
+               <stop id="stop50" offset=".82" stop-color="#006abb" stop-opacity="1" />
+               <stop id="stop52" offset="1" stop-color="#005ba1" stop-opacity="1" />
+          </linearGradient>
+          <linearGradient id="_Linear2" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(73.9 0 0 73.9 58.757 3984.05)" gradientUnits="userSpaceOnUse">
+               <stop id="stop55" offset="0" stop-color="#005ba1" stop-opacity="1" />
+               <stop id="stop57" offset=".07" stop-color="#0060a9" stop-opacity="1" />
+               <stop id="stop59" offset=".36" stop-color="#0071c8" stop-opacity="1" />
+               <stop id="stop61" offset=".52" stop-color="#0078d4" stop-opacity="1" />
+               <stop id="stop63" offset=".64" stop-color="#0074cd" stop-opacity="1" />
+               <stop id="stop65" offset=".82" stop-color="#006abb" stop-opacity="1" />
+               <stop id="stop67" offset="1" stop-color="#005ba1" stop-opacity="1" />
+          </linearGradient>
+     </defs>
+</svg>
