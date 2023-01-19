@@ -6,8 +6,15 @@ You can easily upload the library to draw.io by following the instructions in th
 Or just follow the links under Icon List
 
 # Icon List
-## [Power Platform](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fgithub.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fblob%2Fmaster%2Flibraries%2Fpower-platform-icons.xml) ![PowerPlatform](https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg)
-## [Dynamics 365 xml](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fgithub.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fblob%2Fmaster%2Flibraries%2Fdynamics-365.xml) ![Dynamics 365](https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/dynamics-365/Dynamics-365-Product-Family-Icon/Dynamics365_scalable.svg)
+## [Power Platform](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml) ![PowerPlatform](https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg)
+## [Dynamics 365](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fdynamics-365.xml) ![Dynamics 365](https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/dynamics-365/Dynamics-365-Product-Family-Icon/Dynamics365_scalable.svg)
+## [Azure Data Factory](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fadf-activity-icons.xml) <img src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/adf-activity-icons/AzureDataFactoryDataFlowsCircle.svg" width="100" height="100">
+
+* <a href="https://app.diagrams.net/?splash=0&clibs=
+Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fadf-activity-icons.xml;
+Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fdynamics-365.xml;
+Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml
+" target="_blank">Add all</a>
 
 # Recomended List
 * <a href="https://app.diagrams.net/?splash=0&clibs=
