@@ -14,7 +14,7 @@ Or just follow the links under Icon List
 Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fadf-activity-icons.xml;
 Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fdynamics-365.xml;
 Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml
-" target="_blank">Add all:</a>
+" target="_blank">Add all</a>
 
 # Recomended List
 * <a href="https://app.diagrams.net/?splash=0&clibs=
@@ -48,7 +48,3 @@ If you would like to contribute to the icon pack, please open a pull request wit
 
 # Support
 If you have any issues or questions about the icon pack, please open an issue in the repository.
-
-https%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fadf-activity-icons.xml
-https%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fdynamics-365.xml
-https%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml
