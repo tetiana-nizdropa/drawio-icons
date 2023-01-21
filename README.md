@@ -16,7 +16,7 @@ Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmas
 Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml
 " target="_blank">Add all</a>
 
-# Recomended List
+# Recommended List
 * <a href="https://app.diagrams.net/?splash=0&clibs=
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fadditional-or-support.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fai-machine-learning.xml;
