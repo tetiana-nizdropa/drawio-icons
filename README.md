@@ -11,10 +11,15 @@ Or just follow the links under Icon List
 ## [Azure Data Factory](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fadf-activity-icons.xml) <img src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/adf-activity-icons/AzureDataFactoryDataFlowsCircle.svg" width="100" height="100">
 ## [Power Automate](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-automate.xml) <img src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerAutomate_scalable.svg" width="100" height="100">
 
+## [Azure Service](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fazure-service.xml)
+
+## [Microsoft 365](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fmicrosoft-365.xml)
+
 * <a href="https://app.diagrams.net/?splash=0&clibs=
 Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fadf-activity-icons.xml;
 Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fdynamics-365.xml;
-Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-automate.xml
+Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-platform-icons.xml;
+Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fpower-automate.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fazure-service.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftetiana-nizdropa%2Fdrawio-icons%2Fmaster%2Flibraries%2Fmicrosoft-365.xml
 " target="_blank">Add all</a>
 
 # Recommended List
